@@ -5,7 +5,7 @@
 
   [ダッシュボード](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/f403cd7f23cd723c555ae223e4a59628a2379b3c/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89.md)
 
-  [編集ページ](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/f403cd7f23cd723c555ae223e4a59628a2379b3c/%E7%B7%A8%E9%9B%86%E3%83%9A%E3%83%BC%E3%82%B8.md)
+  [編集ページ](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/c540507d399a6884d06b633007c9fe832f20c107/%E7%B7%A8%E9%9B%86%E3%83%9A%E3%83%BC%E3%82%B8.md)
 
   [設定ページ](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/f403cd7f23cd723c555ae223e4a59628a2379b3c/%E8%A8%AD%E5%AE%9A%E3%83%9A%E3%83%BC%E3%82%B8.md)
 
