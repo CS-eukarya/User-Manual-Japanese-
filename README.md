@@ -13,4 +13,4 @@
 
   [プロジェクトの公開](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/ReEarth%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%88%90/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E5%85%AC%E9%96%8B.md)
 
-  **次のページ：[Re:Earthの基本構成](https://github.com/CS-eukarya/User-Manual-Japanese-/tree/ReEarth%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%A7%8B%E6%88%90)**
+  **次のページ：[プロジェクトとワークスペース](https://github.com/CS-eukarya/User-Manual-Japanese-/tree/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%A8%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9)**
