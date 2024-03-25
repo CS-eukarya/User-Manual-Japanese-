@@ -10,4 +10,5 @@
   [タイムライン](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E5%85%AC%E5%BC%8F%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3.md)
 
   [ナビゲーター](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E5%85%AC%E5%BC%8F%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%82%BF%E3%83%BC.md)
-  
+
+  **次のページ：[ウィジェットの配置](https://github.com/CS-eukarya/User-Manual-Japanese-/tree/%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AE%E9%85%8D%E7%BD%AE)**
