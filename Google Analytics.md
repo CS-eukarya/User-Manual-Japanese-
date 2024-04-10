@@ -1,6 +1,7 @@
 # Google Analytics
 
 
+![2024-04-10_12h29_57](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/178d8903-776c-453b-81c1-ccba818d2e56)
 
 
 ## 設定手順
