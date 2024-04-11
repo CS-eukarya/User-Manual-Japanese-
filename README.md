@@ -67,8 +67,6 @@
             
             [カメラ範囲制限](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A/%E3%82%AB%E3%83%A1%E3%83%A9%E7%AF%84%E5%9B%B2%E5%88%B6%E9%99%90.md)
 
-            [Google Analytics](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A/Google%20Analytics.md)
-
     - データの追加
         
         [概要](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E8%BF%BD%E5%8A%A0/%E6%A6%82%E8%A6%81.md)
