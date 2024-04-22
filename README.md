@@ -30,7 +30,10 @@
         [概要](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/%E6%A6%82%E8%A6%81.md)
         
         [新規プロジェクトの作成](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/%E6%96%B0%E8%A6%8F%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E4%BD%9C%E6%88%90.md)
-        
+
+        [プロジェクトの設定、非編集化、削除](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%80%81%E9%9D%9E%E7%B7%A8%E9%9B%86%E5%8C%96%E3%80%81%E5%89%8A%E9%99%A4.md)
+
+  
         [データセット ライブラリ](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%83%E3%83%88%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA.md)
         
         [プラグインライブラリ](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA.md)
