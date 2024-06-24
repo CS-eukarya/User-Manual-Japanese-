@@ -156,7 +156,7 @@
 
     [特定の建物のみ表示](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4/%E7%89%B9%E5%AE%9A%E3%81%AE%E5%BB%BA%E7%89%A9%E3%81%AE%E3%81%BF%E8%A1%A8%E7%A4%BA%20.md)
 
-    [浸水範囲の色を設定する](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4/%E6%B5%B8%E6%B0%B4%E7%AF%84%E5%9B%B2%E3%81%AE%E8%89%B2%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B.md)
+    [浸水範囲の色を設定する](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4/%E6%B5%B8%E6%B0%B4%E6%83%B3%E5%AE%9A%E7%AF%84%E5%9B%B2%E3%81%AE%E8%89%B2%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B.md)
      
             
 - プラグインの追加
