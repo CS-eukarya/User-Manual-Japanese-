@@ -69,10 +69,8 @@
             
             [ファイル](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/ReEarth%E3%81%AE%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB.md)
 
-<br>
-<br>
 
 
-            次のページ：[インフォボックスの作成]()
-            
+
+           **次のページ：[インフォボックスの作成](https://github.com/CS-eukarya/User-Manual-Japanese-/tree/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E4%BD%9C%E6%88%90)**
             
