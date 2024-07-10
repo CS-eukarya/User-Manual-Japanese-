@@ -150,7 +150,7 @@
 
     [3D都市モデルの色付け](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4/%EF%BC%93D%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E8%89%B2%E4%BB%98%E3%81%91.md)
 
-     [属性（高さ）による建物の色分け](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4/%E5%B1%9E%E6%80%A7%EF%BC%88%E9%AB%98%E3%81%95%EF%BC%89%E3%81%AB%E3%82%88%E3%82%8B%E5%BB%BA%E7%89%A9%E3%81%AE%E8%89%B2%E5%88%86%E3%81%91.md)
+     [3D都市モデルの属性から建物の色分け](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4/3D%E9%83%BD%E5%B8%82%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E5%B1%9E%E6%80%A7%E3%81%8B%E3%82%89%E5%BB%BA%E7%89%A9%E3%81%AE%E8%89%B2%E5%88%86%E3%81%91.md)
 
     [複数の属性で色分け](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E5%A4%89%E6%9B%B4/%E8%A4%87%E6%95%B0%E3%81%AE%E5%B1%9E%E6%80%A7%E3%81%A7%E8%89%B2%E5%88%86%E3%81%91.md)
 
